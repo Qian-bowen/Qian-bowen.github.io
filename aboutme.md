@@ -9,7 +9,7 @@ subtitle: I'm Here! WooHoo!
 
 * I'm currently learning C++ & Golang.
 * A backend developer, with a little frontend skill.
-* I'm going to :beer:Eating, :earth_africa:Travelling, :computer:Coding & :saxophone:Music 
+* I'm going to Eating, Travelling, Coding & Listening Music.
 
 [![Top Langs](https://github-readme-stats-7680dodou-qian-bowen.vercel.app/api/top-langs/?username=Qian-bowen&layout=compact&show_icons=true&theme=dark)](https://github.com/Qian-bowen/github-readme-stats)
 
